@@ -1,4 +1,3 @@
-# 1. пет проект
 import string
 import random
 
